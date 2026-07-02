@@ -9,15 +9,33 @@ NovaFlow adalah aplikasi **Task Management** berbasis **Flutter** yang dirancang
 - [Overview](#-overview)
 - [Objectives](#-objectives)
 - [Features](#-features)
+  - [Dashboard](#-dashboard)
+  - [Task Management (CRUD)](#-task-management-crud)
+  - [Search & Filter](#-search--filter)
+  - [Task Sorting](#️-task-sorting)
+  - [Calendar](#-calendar)
+  - [Statistics & Analytics](#-statistics--analytics)
 - [Technology Stack](#️-technology-stack)
 - [Project Structure](#-project-structure)
 - [Database](#️-database)
+- [Application Workflow](#-app-workflow)
 - [Screenshots](#-screenshots)
+  - [Landing Screen](#landing-screen)
+  - [Register](#register)
+  - [Login](#login)
+  - [Add Task Category](#add-task-category)
+  - [Home](#home)
+  - [Tasks](#tasks)
+  - [Calendar](#calendar-1)
+  - [Analytics](#analytics)
+  - [Settings](#settings)
+  - [Create Task](#create-task)
+  - [Edit Task](#edit-task)
+  - [Task Detail](#task-detail)
 - [Getting Started](#-getting-started)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Author](#-author)
-
 ---
 
 ## 📖 Overview
@@ -168,12 +186,12 @@ Menyediakan visualisasi data dalam bentuk grafik untuk membantu pengguna memanta
 
 ---
 
-## 🗄️ Konsep Database
+## 🗄️ Database
 
 NovaFlow menggunakan **SQLite** sebagai media penyimpanan data lokal.
 ![Register](assets/concept/erd.png)
 
-## 📊 Alur Aplikasi
+## 📊 Workflow
 ![Register](assets/concept/work_flow.png)
 
 ## 📷 Screenshots
@@ -211,7 +229,7 @@ NovaFlow menggunakan **SQLite** sebagai media penyimpanan data lokal.
 
 ![Register](assets/screenshots/analytics.jpg)
 
-### settings
+### Settings
 
 ![Register](assets/screenshots/settings.jpg)
 
