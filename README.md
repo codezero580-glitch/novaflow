@@ -171,87 +171,62 @@ Menyediakan visualisasi data dalam bentuk grafik untuk membantu pengguna memanta
 ## 🗄️ Konsep Database
 
 NovaFlow menggunakan **SQLite** sebagai media penyimpanan data lokal.
-```
-assets\concept\erd.png
-```
+![Register](assets/concept/erd.png)
 
 ## 📊 Alur Aplikasi
-```
-assets\concept\work_flow.png
-```
+![Register](assets/concept/workflow.png)
 
 ## 📷 Screenshots
 ### Landing Screen
 
 
-assets\screenshots\landing_screen.jpg
+![Register](assets/screenshots/landing_screen.jpg)
 
 
 ### Register
 
-```
-assets\screenshots\register.jpg
-```
+![Register](assets/screenshots/register.jpg)
 
 ### Login
 
-```
-assets\screenshots\login.jpg
-```
+![Register](assets/screenshots/login.jpg)
 
 ### Add Task Category
 
-```
-assets\screenshots\add_task_category.jpg
-```
+![Register](assets/screenshots/add_task_category.jpg)
 
 ### Home
 
-```
-assets\screenshots\home.jpg
-```
+![Register](assets/screenshots/home.jpg)
 
 ### Tasks
 
-```
-assets\screenshots\tasks.jpg
-```
+![Register](assets/screenshots/tasks.jpg)
 
 ### Calendar
 
-```
-assets\screenshots\calendar.jpg
-```
+![Register](assets/screenshots/calendar.jpg)
 
 ### Analytics
 
-```
-assets\screenshots\analytics.jpg
-```
+![Register](assets/screenshots/analytics.jpg)
 
 ### settings
 
-```
-assets\screenshots\settings.jpg
-```
+![Register](assets/screenshots/settings.jpg)
 
 ### Create Task
 
-```
-assets\screenshots\create_task.jpg
-```
+![Register](assets/screenshots/create_task.jpg)
 
 ### Edit Task
 
-```
-assets\screenshots\edit_task.jpg
-```
+![Register](assets/screenshots/edit_task.jpg)
 
 ### Task Detail
 
-```
-assets\screenshots\task_detail.jpg
-```
+![Register](assets/screenshots/task_detail.jpg)
+
 ---
 
 ## 🚀 Getting Started
@@ -279,13 +254,13 @@ flutter doctor
 Clone repository:
 
 ```bash
-git clone https://github.com/<username>/<repository>.git
+git clone https://github.com/codezero580-glitch/novaflow/.git
 ```
 
 Masuk ke direktori project:
 
 ```bash
-cd <repository>
+cd novaflow
 ```
 
 Install seluruh dependency:
@@ -330,4 +305,4 @@ flutter build apk --release
 
 **Nama:** *and*
 
-GitHub: https://github.com/<username>
+GitHub: [https://github.com/<username>](https://github.com/codezero580-glitch/)
