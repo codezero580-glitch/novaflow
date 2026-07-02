@@ -174,7 +174,7 @@ NovaFlow menggunakan **SQLite** sebagai media penyimpanan data lokal.
 ![Register](assets/concept/erd.png)
 
 ## 📊 Alur Aplikasi
-![Register](assets/concept/workflow.png)
+![Register](assets/concept/work_flow.png)
 
 ## 📷 Screenshots
 ### Landing Screen
