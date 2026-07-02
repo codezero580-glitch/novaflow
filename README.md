@@ -183,9 +183,9 @@ assets\concept\work_flow.png
 ## 📷 Screenshots
 ### Landing Screen
 
-```
+
 assets\screenshots\landing_screen.jpg
-```
+
 
 ### Register
 
