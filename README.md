@@ -180,7 +180,6 @@ Menyediakan visualisasi data dalam bentuk grafik untuk membantu pengguna memanta
 │   └── 📄 bottom_nav.dart
 ├── 📁 state
 │   └── 📄 task_provider.dart
-├── 📁 widgets
 └── 📄 main.dart
 ```
 
